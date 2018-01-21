@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/baltazarv/express-demo-fullstack#readme",
   "devDependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "faker": "^4.1.0"
   }
 }
